@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Droid Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Droid Sans'), local('DroidSans'), url('/goapi/getStaticAsset/?file=DroidSans.woff&type=css&subdir=fonts') format('woff');
+  }
+  @font-face {
+    font-family: 'Droid Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Droid Sans Bold'), local('DroidSans-Bold'), url('/goapi/getStaticAsset/?file=DroidSans-Bold.woff&type=css&subdir=fonts') format('woff');
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sans'), local('OpenSans'), url('/goapi/getStaticAsset/?file=OpenSans.woff&type=css&subdir=fonts') format('woff');
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url('/goapi/getStaticAsset/?file=OpenSans-Semibold.woff&type=css&subdir=fonts') format('woff');
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url('/goapi/getStaticAsset/?file=OpenSans-Bold.woff&type=css&subdir=fonts') format('woff');
+  }

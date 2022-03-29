@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 100;
+    src: url('/goapi/getStaticAsset/?file=Sailec-Thin.eot&type=css&subdir=fonts');
+    src: url('/goapi/getStaticAsset/?file=Sailec-Thin.eot%3F%23iefix&type=css&subdir=fonts') format('embedded-opentype'),url('/goapi/getStaticAsset/?file=Sailec-Thin.woff2&type=css&subdir=fonts') format('woff2'),url('/goapi/getStaticAsset/?file=Sailec-Thin.woff&type=css&subdir=fonts') format('woff'),url('/goapi/getStaticAsset/?file=Sailec-Thin.ttf&type=css&subdir=fonts') format('truetype');
+}
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 200;
+    src: url('/goapi/getStaticAsset/?file=Sailec-Light.eot&type=css&subdir=fonts');
+    src: url('/goapi/getStaticAsset/?file=Sailec-Light.eot%3F%23iefix&type=css&subdir=fonts') format('embedded-opentype'),url('/goapi/getStaticAsset/?file=Sailec-Light.woff2&type=css&subdir=fonts') format('woff2'),url('/goapi/getStaticAsset/?file=Sailec-Light.woff&type=css&subdir=fonts') format('woff'),url('/goapi/getStaticAsset/?file=Sailec-Light.ttf&type=css&subdir=fonts') format('truetype');
+}
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 400;
+    src: url('/goapi/getStaticAsset/?file=Sailec-Regular.eot&type=css&subdir=fonts');
+    src: url('/goapi/getStaticAsset/?file=Sailec-Regular.eot%3F%23iefix&type=css&subdir=fonts') format('embedded-opentype'),url('/goapi/getStaticAsset/?file=Sailec-Regular.woff2&type=css&subdir=fonts') format('woff2'),url('/goapi/getStaticAsset/?file=Sailec-Regular.woff&type=css&subdir=fonts') format('woff'),url('/goapi/getStaticAsset/?file=Sailec-Regular.ttf&type=css&subdir=fonts') format('truetype');
+}
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 500;
+    src: url('/goapi/getStaticAsset/?file=Sailec-Medium.eot&type=css&subdir=fonts');
+    src: url('/goapi/getStaticAsset/?file=Sailec-Medium.eot%3F%23iefix&type=css&subdir=fonts') format('embedded-opentype'),url('/goapi/getStaticAsset/?file=Sailec-Medium.woff2&type=css&subdir=fonts') format('woff2'),url('/goapi/getStaticAsset/?file=Sailec-Medium.woff&type=css&subdir=fonts') format('woff'),url('/goapi/getStaticAsset/?file=Sailec-Medium.ttf&type=css&subdir=fonts') format('truetype');
+}
+/* font weight 500 and font weight 700 (bold) are the same for better integration support */
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 700;
+    src: url('/goapi/getStaticAsset/?file=Sailec-Medium.eot&type=css&subdir=fonts');
+    src: url('/goapi/getStaticAsset/?file=Sailec-Medium.eot%3F%23iefix&type=css&subdir=fonts') format('embedded-opentype'),url('/goapi/getStaticAsset/?file=Sailec-Medium.woff2&type=css&subdir=fonts') format('woff2'),url('/goapi/getStaticAsset/?file=Sailec-Medium.woff&type=css&subdir=fonts') format('woff'),url('/goapi/getStaticAsset/?file=Sailec-Medium.ttf&type=css&subdir=fonts') format('truetype');
+}
