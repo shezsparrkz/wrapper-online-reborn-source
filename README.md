@@ -1,0 +1,2 @@
+# Wrapper: Online - Reborn
+Wrapper: Online - Reborn (W:O-R) was an old project I worked on that aimed to complete GoAnimate's 'Legacy Video Maker' and the original API. This project was started in February 2021 and (effectively) cancelled in May 2021. The reason for this being a lack of motivation and knowledge. In retrospective, this can't be salvaged and used in an efficient manner due to API functions being done with PHP, as at the time I did not have enough knowledge in a better alternative.
